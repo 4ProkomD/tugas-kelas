@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <tittle>Membuat lingkaran dan persegi</tittle>
+</head>
+<body>
+  
+    <style type="text/css">
+        body{
+              font-family: sans-serif;
+        }
+        
+        .lingkaran{ 
+              width: 200px;
+              height: 200px; 
+              background: #2ccada;
+              border-radius: 100%;
+         }
+         
+         .persegi{
+              width: 200px;
+              height: 200px;
+              background: #dac52c;
+              border-radius: 100%;
+          }
+     </style>
+     
+     <h1>Membuat Lingkaran dan Persegi</h1>
+     <br></br>
+     
+     <div class="lingkaran"></div>
+     </br>
+     <div class="persegi"></div>
+     
+ </body>
+ </html>
